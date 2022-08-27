@@ -1,0 +1,10 @@
+.UserInfo-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.UserInfo-img {
+  width: 40%;
+}
